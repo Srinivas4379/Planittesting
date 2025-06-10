@@ -1,0 +1,3 @@
+base\BaseTest.class
+testscripts\ProductAPITest.class
+util\ProductPayload.class
